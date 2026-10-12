@@ -1,4 +1,4 @@
-awkeye
+Hawkeye
 
 Hawkeye is an autonomous multi-sensor fusion system built in Embedded C on an ATmega328P. It combines light, motion, and temperature data to identify significant sources in a room and automatically point a servo toward the detected target.
 
